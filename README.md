@@ -1,1 +1,2 @@
-# Go Go Go
+# Go
+Go Basics
