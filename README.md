@@ -1,4 +1,5 @@
 # Go
 Go Basics
-Go Type
-Go func
+Learned Go Type
+Learned Go func
+Learned Go Arrays and Slices
